@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R1uAmhIygqlLJ+B0jmqn9ztUTi29hNVuQl16iON2QvE=",
+  "Source": "CassandraWebApi",
+  "BasePath": "_content/CassandraWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
